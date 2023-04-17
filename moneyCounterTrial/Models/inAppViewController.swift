@@ -35,13 +35,9 @@ let ohmYellowColor = UIColor(red: 210/255, green: 210/255, blue: 210/255, alpha:
 let currencyModel = CurrencyModel()
 
 class inAppViewController: NSObject{
-   // var localeCurrencyCode : String =  "USD"
-    //localeCurrencyCode =  NSLocale.current.currencyCode
-   // var selectedCurrency : String = "USD"
-    //var baseCurrencyCode : String? = NSLocale.current.currencyCode
+    var reviewTempCount = 0
     var baseCurrencyCode : String = NSLocale.current.currencyCode ?? "USD"
     var selectedCurrency: String {
-        
         get {return baseCurrencyCode }
         set { baseCurrencyCode = newValue }
     }

@@ -6,8 +6,7 @@
     import AdSupport
     import StoreKit
     import FBAudienceNetwork
-    
-    
+
     let appDelegate = UIApplication.shared.delegate as? AppDelegate
     let managedContext = appDelegate?.persistentContainer.viewContext
     let moneyEntity = NSEntityDescription.entity(forEntityName: "Money", in: managedContext!)!
@@ -154,7 +153,6 @@
             soundPlayer?.play()
         }
         @objc func handleKeyboardWillShow(notification: Notification) {
-            //self.activeTextField = CustomInputCollectionView.cellForItem(at: IndexPath(item: 0, section: 0))
             guard let keyboardEndFrame = notification.userInfo?[UIResponder.keyboardFrameEndUserInfoKey] as? CGRect else { return }
             inApp.keyboardHeight = keyboardEndFrame.height
             if (keyboardEndFrame.origin.y + keyboardEndFrame.size.height) > view.frame.size.height {
@@ -1320,7 +1318,7 @@
         let mainView = MainViewController()
   
         
-     
+        
         override func viewDidLoad() {
             super.viewDidLoad()
             currencyLabel.textColor = .systemGray   
@@ -1333,7 +1331,11 @@
             shareButton.tintColor = UIColor.systemTeal
             clearButton.setTitleColor(UIColor.systemTeal, for: .normal)
             clearButton.backgroundColor  = .systemBackground
-            StoreReviewHelper.checkAndAskForReview()
+            if inApp.reviewTempCount == 0{
+                StoreReviewHelper.checkAndAskForReview()
+                inApp.reviewTempCount += 1
+            }
+            
             bannerView.delegate = self
             bannerView.adUnitID = bannerViewadUnitID   // money ounter AdUnitAd
             bannerView.rootViewController = self
@@ -1343,8 +1345,6 @@
                 
                 localeCurrencyCode = inApp.selectedCurrency
             }
-            
-           
             GADMobileAds.sharedInstance().requestConfiguration.testDeviceIdentifiers = [ "872ebcb05948f5ca1f4a247f9a41de8b" ]
             shareButton.addTarget(self, action: #selector(handleShare), for:.touchUpInside)
             if deviceIdiom == .pad{
@@ -1355,13 +1355,8 @@
                     shareButton.tintColor = UIColor.systemTeal
                 }
             }
-            
-         
             dollarImage.layer.cornerRadius = dollarImage.frame.width/2
             self.notesTextField.isUserInteractionEnabled = false
-          //  initialBottomConstraintValueCollectionView = bottomConstraintCollectionView.constant
-            
-          
             let currencyResult = mainView.setCurrencyArray(code: localeCurrencyCode!)
             currencyArray = currencyResult.currencyArray
             dataBase.retrieveArray()

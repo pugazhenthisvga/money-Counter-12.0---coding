@@ -23,12 +23,14 @@ struct StoreReviewHelper {
         print("App run count is : \(appOpenCount)")
         Defaults.set(appOpenCount, forKey: UserDefaultsKeys.APP_OPENED_COUNT)
     }
+     
     static func checkAndAskForReview() { // call this whenever appropriate
         // this will not be shown everytime. Apple has some internal logic on how to show this.
         guard let appOpenCount = Defaults.value(forKey: UserDefaultsKeys.APP_OPENED_COUNT) as? Int else {
             Defaults.set(1, forKey: UserDefaultsKeys.APP_OPENED_COUNT)
             return
         }
+        
         switch appOpenCount {
         case 2,5:
             StoreReviewHelper().requestReview()
@@ -42,7 +44,7 @@ struct StoreReviewHelper {
     fileprivate func requestReview() {
         if #available(iOS 10.3, *) {
             if (inApp.internetAvailable){
-                print("Yay! We have internet!")
+                 
                 SKStoreReviewController.requestReview()
             }else{
                 print("Ooops! We have no internet!")

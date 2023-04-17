@@ -270,9 +270,9 @@ extension moreAppsCollectionViewController : MFMailComposeViewControllerDelegate
           let mail = MFMailComposeViewController()
           mail.setToRecipients(["contact.pugal.apps@gmail.com"])
         if (   UserDefaults.standard.bool(forKey: IAPManager.IAPHelperPurchaseNotification) == true){
-            mail.setSubject("moneyCounter - 12.0p| \(self.iOSVersion) | \(self.modelName)")
+            mail.setSubject("moneyCounter - 12.1p| \(self.iOSVersion) | \(self.modelName)")
         }else{
-            mail.setSubject("moneyCounter - 12.0| \(self.iOSVersion) | \(self.modelName)")
+            mail.setSubject("moneyCounter - 12.1| \(self.iOSVersion) | \(self.modelName)")
         }
           
           mail.mailComposeDelegate = self

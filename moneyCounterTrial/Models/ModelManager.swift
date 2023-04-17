@@ -34,10 +34,5 @@ class ModelManager: NSObject {
         Candy( name:NSLocalizedString("timberCalculator",comment:"CONVERTER"),segueNo: "moreAppsSegue",index:14),
         Candy( name:NSLocalizedString("highwaysCalculator",comment:"CONVERTER"),segueNo: "moreAppsSegue",index:14),
         Candy( name:NSLocalizedString("geometricCalculator",comment:"CONVERTER"),segueNo: "moreAppsSegue",index:15)]
-        
-        
-            
-   
-   
 }
 }
