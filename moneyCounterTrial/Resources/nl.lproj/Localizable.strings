@@ -1,0 +1,74 @@
+/* 
+  Localizable.strings
+  Money Counter
+
+  Created by V PUGAZHENTHI on 03/02/21.
+  Copyright © 2021 V PUGAZHENTHI. All rights reserved.
+*/
+"contactSupportButtonText" = "Contact";
+"Restored successfully!"  =  "Restored successfully!";
+"Enjoy!"  =  "Enjoy!";
+"Buy  for "  =  " Buy ";
+ 
+"moreAppsLabelText"  =  "Meer apps van de ontwikkelaar";
+"Choose Currency" = "Choose Currency";
+"Edit" = "Edit";
+"removeAds" = "Verwijder advertenties";
+"restore" = "Aankopen herstellen";
+"Money Counter" = "Money Counter";
+"Money" = "geld";
+"default currency"  = "standaardvaluta";
+"- reset" = "- resetten";
+"More" = "meer";
+"Try Later" = "Probeer later";
+"structuralCalculator" = "Structural Calculator";
+"hydraulicsCalculator"  = "Hydraulics and Waterworks Calculator";
+"civilCalculator"   =   "Civil Engineering Calculators & Converters";
+"concreteCalculator" = "Concrete Calculator";
+"electricalCalculator" = "Electrical Calculator";
+"electricalConverter" = "Electrical Converter";
+"myPhysicsCalculator" =  "My Physics Calculator";
+"energyCalculator" = "Energy Cost Calculator";
+"temperatureCalculator" = "Temperature Converter";
+"unitsConverter" =  "Units Converter";
+"energyCostCalculator" = "energiekosten rekenmachine";
+"ohmsLawCalculator" =  "Ohm wet rekenmachine";
+
+
+"structuralCalculatorDescription" = "Structural Engineering Calculator contains 58 Calculations of different Structural and Civil Engineering parameters.";
+"hydraulicsCalculatorDescription" = "94 Calculators and Converters,for different Hydraulics, Water works and Civil Engineering parameters";
+"civilCalculatorDescription"   =   "Civil Engineering Pack contains 11 Modules with 484 Calculators.";
+"concreteCalculatorDescription" = "Concrete Engineering Calculator contains 56 calculators for Concrete and Civil Engineering parameters.";
+"electricalCalculatorDescription" = "59 Electrical Calculators and 16 Converters with Formulas";
+
+"physicsCalculatorDescription" = "My Physics Calculator contains 134 Calculators, for different Physics and Engineering Parameters. ";
+"energyCalculatorDescription" = "App to calculate the Operating cost &  Energy Usage of Electric Equipments or Machinery.";
+"temperatureCalculatorDescription" = "Temperature converter, converts values between different units of temperature.";
+"unitsConverterDescription" = "A pack of converters for different units of measure. 60 Categories with 1327 Units and 53742 Conversions.";
+
+"rate this App"  =   "Beoordeel";
+"share the App" = "Delen";
+"contactSupportButtonText" = "Contact";
+
+"Check out this App" = "Check out this App";
+"geometricCalculator" = "Geometrie Rekenmachine";
+"myPhysicsCalculator" =  "My Physics Calculator";
+"unitsConverter"  =  "Units Converter";
+"thermodynamicsCalculator"  =  "Thermal Engineering Calc";
+"civilCalculator" = "Civiele Techniek Rekenmachine";
+"structuralCalculator" = "Bouwtechniek Rekenmachine";
+"beamCalculator" = "Balk Rekenmachine";
+"hydraulicsCalculator" = "Waterbouwkunde Rekenmachine";
+"concreteCalculator" = "Beton Rekenmachine";
+"pilingCalculator"  =  "Paalfundering Rekenmachine";
+"surveyCalculator" = "Landmeetkunde Rekenmachine";
+"soilCalculator" = "Bodem/Grondverzet Rekenmachine";
+"columnCalculator" = "Kolom Rekenmachine";
+"bridgeCalculator" = "Bruggenbouw rekenmachine";
+"moneyCounter"  = "geld teller";
+"Movie Trailerz" = "Movie Trailers & Teasers";
+"timberCalculator"  =  "Timber Engineering Calculator";
+"highwaysCalculator"  =  "Snelweg en weg Rekenmachine";
+"fluidMechanicsCalculator" = "Fluid Mechanics Calculator";
+"Try Later" = "Later";
+"Clear" = "Wissen";

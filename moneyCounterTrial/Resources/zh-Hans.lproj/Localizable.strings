@@ -1,0 +1,68 @@
+/* 
+  Localizable.strings
+  Money Counter
+
+  Created by V PUGAZHENTHI on 03/02/21.
+  Copyright © 2021 V PUGAZHENTHI. All rights reserved.
+*/
+"contactSupportButtonText" = "联系支持";
+"moreAppsLabelText"  =  "开发人员提供的更多应用";
+ 
+"removeAds" = "移除广告";
+"restore" = "恢复购买";
+"Money Counter" = "钱 计数器";
+"Money" = "钱";
+"default currency"  = "默认货币";
+"More" = "更多";
+"- reset" = "- reset";
+"structuralCalculator" = "Structural Calculator";
+"hydraulicsCalculator"  = "Hydraulics and Waterworks Calculator";
+"civilCalculator"   =   "Civil Engineering Calculators & Converters";
+"concreteCalculator" = "Concrete Calculator";
+"electricalCalculator" = "Electrical Calculator";
+"electricalConverter" = "Electrical Converter";
+"myPhysicsCalculator" =  "My Physics Calculator";
+"energyCalculator" = "Energy Cost Calculator";
+"temperatureCalculator" = "温度转换器";
+"energyCostCalculator" = "能源成本计算器";
+"ohmsLawCalculator" = "欧姆定律计算器";
+
+"structuralCalculatorDescription" = "Structural Calculator";
+"hydraulicsCalculatorDescription"  = "Hydraulics and Waterworks Calculator";
+"civilCalculatorDescription"   =   "Civil Engineering Pack";
+"concreteCalculatorDescription" = "Concrete Calculator";
+"electricalCalculatorDescription" = "Electrical Calculator";
+"electricalConverterDescription" = "Electrical Converter";
+"myPhysicsCalculatorDescription" =  "My Physics Calculator";
+"energyCalculatorDescription" = "Energy Cost Calculator";
+"temperatureCalculatorDescription" = "温度转换器可以转换不同温度单位之间的值。";
+"Check out this App" = "看看这个应用程序";
+
+"rate this App"  =   "评价应用程序";
+"share the App" = "分享应用";
+"contactSupportButtonText" = "联系支持";
+
+"Check out this App" = "看看这个程序";
+"geometricCalculator" = "几何计算器。";
+"myPhysicsCalculator" =  "My Physics Calculator";
+"unitsConverter"  =  "Units Converter";
+"thermodynamicsCalculator" = "Thermodynamics Calculator";
+"civilCalculator" = "Civil Engineering Calculators & Converters";
+"structuralCalculator" = "Structural Engineering Calculator";
+"beamCalculator"  =  "Beam Calculator";
+"hydraulicsCalculator"  = "Hydraulics and Waterworks Calculator";
+"concreteCalculator" = "Concrete Calculator";
+"pilingCalculator"   =   "Piles and Piling Calculator";
+"surveyCalculator" = "Engineering Survey Calculator";
+"soilCalculator" = "Soil and Earthwork Calculator";
+"columnCalculator"  = "Column Construction Calc.";
+"bridgeCalculator" = "Bridge Engineering Calculator";
+"moneyCounter"  = "钱 计数器";
+"Movie Trailerz" = "Movie Trailers & Teasers";
+"timberCalculator"  =  "Timber Engineering Calculator";
+"highwaysCalculator"  =  "Highway and Road Calculator";
+"fluidMechanicsCalculator" = "Fluid Mechanics Calculator";
+"Try Later" = "后来";
+"moneyCounter" = "钱 计数器";
+"remarks" = "添加便条";
+"Clear" = "删除";

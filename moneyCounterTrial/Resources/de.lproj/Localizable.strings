@@ -1,0 +1,72 @@
+/*
+  Localizable.strings
+  Money Counter
+
+  Created by PUGAZHENTHI VENKATACHALAM on 28/06/18.
+  Copyright © 2018 PUGAZHENTHI VENKATACHALAM. All rights reserved.
+*/
+"contactSupportButtonText" = "Kontaktieren";
+"moreAppsLabelText"  =  "Mehr Apps von Entwickler";
+"Restored successfully!"  =  "Erfolgreich wiederhergestellt!";
+"Enjoy!"  =  " genießen! ";
+"Buy  for "  =  " Kaufen ";
+"Not Now"   =   "nicht jetzt";
+
+"removeAds" = "Anzeigen entfernen";
+"restore" = "Kauf wiederherstellen";
+"Money Counter" = "GeldRechner";
+"Money" = "Geld";
+"default currency"  = "Standardwährung";
+"- reset" = "- zurücksetzen";
+"More" = "Mehr";
+"structuralCalculator" = "Konstruktiver Ingenieurbau";
+"hydraulicsCalculator"  = "Hydraulik und Wasserwerk Rechner";
+"civilCalculator"   =   "Tiefbau - Rechner und Konverter";
+"concreteCalculator" = "Beton Rechne";
+"electricalCalculator" = "Calculatrice Electrique";
+"electricalConverter" = "Convertisseur électrique";
+"myPhysicsCalculator" =  "Ma Calculatrice de Physique";
+"energyCalculator" = "Calculatrice(coût de l'énergie)";
+"temperatureCalculator" = "Temperatur - Konverter";
+"energyCostCalculator" = "Energie Kostenrechner";
+"ohmsLawCalculator" = "Ohm-Rechner";
+
+"structuralCalculatorDescription" = "Konstruktiver Ingenieurbau Rechner enthält 58 Taschenrechner, die schnell und einfach zu berechnen und verschiedene Hoch-und Tiefbau-Parameter umwandeln kann";
+"hydraulicsCalculatorDescription" = "Hydraulik-Rechner enthält 94 Taschenrechner, kann diese schnell und einfach zu berechnen und konvertieren verschiedene Hydraulik, Wasserwerke und Tiefbau-Parameter.";
+"civilCalculatorDescription"   =   "Tiefbau Pack  enthält 11 Module  mit 484 Rechner";
+"concreteCalculatorDescription" = "Beton-Rechner enthält 56 Taschenrechner, die schnell und einfach zu berechnen und verschiedene Beton-und Tiefbau-Parameter ";
+"electricalCalculatorDescription"  =  "49 - Elektrische Rechner mit Formula & Multiple Units..";
+ 
+"physicsCalculatorDescription" =  "Mein Physik-Rechner enthält 134 Rechner, für unterschiedliche Physik und Ingenieur Parameter. ";
+"energyCalculatorDescription" = "Energie Kostenrechner berechnet die laufenden Kosten von elektrischen Geräten oder Maschinen.";
+"temperatureCalculatorDescription" = "wandelt Werte zwischen verschiedenen Einheiten der Temperatur. mit Formeln";
+"unitsConverterDescription" = "Einheit-Konverter ist ein Paket von Konvertern für verschiedene Maßeinheiten. Es besteht aus 60 Kategorien mit 1327 Einheiten und 53742 Umrechnungen. ";
+"Check out this App" = "Sieh dir diese App an";
+
+"rate this App"  =   "Bewertung";
+"share the App" = "Teilen";
+ 
+
+"geometricCalculator" = "Geometrie Rechner";
+"myPhysicsCalculator" =  "Mein Physik-Rechner";
+"unitsConverter" =  "Einheit-Konverter";
+"thermodynamicsCalculator"  =  "Wärmetechnik Rechner";
+"civilCalculator"   =   "Tiefbau - Rechner und Konverter";
+"structuralCalculator" = "Konstruktiver Ingenieurbau Rechner";
+"beamCalculator" =  "Strahl Rechner";
+"hydraulicsCalculator"  = "Hydraulik und Wasserwerk Rechner";
+"concreteCalculator" = "Beton Rechne";
+"pilingCalculator"  =  "Pfahlgründung Rechner";
+"surveyCalculator" = "Vermessungstechnik Rechne";
+"soilCalculator" = "Boden und Erdbau Rechner";
+"columnCalculator" = "Säule Rechner";
+"bridgeCalculator" = "Brückenbau Rechner";
+"moneyCounter"  = "Geld Rechner";
+"Movie Trailerz" = "Movie Trailers & Teasers";
+"timberCalculator"  =  "Bauholz Technik Rechner";
+"highwaysCalculator"  =  "Autobahn-und Straßenarbeiten";
+"fluidMechanicsCalculator"  =  "Strömungslehre Rechner";
+"Try Later" = "Später";
+"More" = "Mehr";
+"remarks" = "Füg ein Notiz hinzu";
+"Clear" = "Löschen";

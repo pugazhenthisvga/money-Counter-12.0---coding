@@ -1,0 +1,73 @@
+/* 
+  Localizable.strings
+  Money Counter
+
+  Created by V PUGAZHENTHI on 03/02/21.
+  Copyright © 2021 V PUGAZHENTHI. All rights reserved.
+*/
+"contactSupportButtonText" = "Supporto";
+"Restored successfully!"  =  "Restored successfully!";
+"Enjoy!"  =  "Enjoy!";
+"Buy  for "  =  " Buy ";
+"support_name"  =  "    Contact Support";
+"moreAppsLabelText"  =  "Altre app da sviluppatore";
+"Restored successfully!"  =  "Restaurato con successo!";
+"Enjoy!"  =  "godere!";
+"Buy  for "  =  " Acquista ";
+"Not Now"   =   "non adesso";
+"Choose Currency" = "Scegli Valuta";
+"Edit" = "Modifica";
+"removeAds" = "Rimuovi annunci";
+"restore" = "ripristinare acquisto";
+"Money" = "denaro";
+"default currency"  = "valuta predefinita";
+"- reset" = "- Ripristina";
+"Try Later" = "Prova più tardi";
+"More" = "Altre";
+"structuralCalculator" = "Ingegneria strutturale Calco.";
+"hydraulicsCalculator"  = "Calcolatrice Idraulica";
+"civilCalculator"   =   "Ingegneria Civile - Calcolatrici e Convertitori";
+"concreteCalculator" = "Calcolatrice Calcestruzzo";
+"electricalCalculator" = "Calcolatrice Elettriche";
+"electricalConverter" = "Elettriche Convertitore";
+"myPhysicsCalculator" =  "Mia Calcolatrice Fisica";
+"energyCostCalculator" = "Energia Costo Calcolatrice";
+"temperatureCalculator" = "Convertitore di temperatura";
+"ohmsLawCalculator" = "Ohm's Law Calcolatrice";
+
+"structuralCalculatorDescription" = "Structural Engineering Calculator contains 58 Calculations of different Structural and Civil Engineering parameters.";
+"hydraulicsCalculatorDescription" = "94 Calculators and Converters,for different Hydraulics, Water works and Civil Engineering parameters";
+"civilCalculatorDescription"   =   "Civil Engineering Pack contains 11 Modules with 484 Calculators.";
+"concreteCalculatorDescription" = "Concrete Engineering Calculator contains 56 calculators for Concrete and Civil Engineering parameters.";
+"electricalCalculatorDescription" = "59 Electrical Calculators and 16 Converters with Formulas";
+
+"physicsCalculatorDescription" = "My Physics Calculator contains 134 Calculators, for different Physics and Engineering Parameters. ";
+"energyCalculatorDescription" = "App to calculate the Operating cost &  Energy Usage of Electric Equipments or Machinery.";
+"temperatureCalculatorDescription" = "Temperature converter, converts values between different units of temperature.";
+"unitsConverterDescription" = "A pack of converters for different units of measure. 60 Categories with 1327 Units and 53742 Conversions.";
+
+"rate this App"  =   "Valuta l'app";
+"share the App" = "Condividi l'app";
+ 
+
+"Check out this App" = "Dai un'occhiata a questa app";
+"geometricCalculator" = "Calcolatore di geometria";
+ 
+"unitsConverter" =  "Einheit-Konverter";
+"thermodynamicsCalculator"  =  "Calcolatrice ingegneria termica";
+"civilCalculator"   =     "Ingegneria Civile - Calcolatrici e Convertitori";
+"structuralCalculator" = "Ingegneria strutturale Calcolatrice";
+"beamCalculator"  =  "Calcolatrice Trave";
+"hydraulicsCalculator"  = "Calcolatrice Idraulica";
+"concreteCalculator" = "Calcolatrice Calcestruzzo";
+"pilingCalculator"  =  "Calcolatrice Palificazione";
+"surveyCalculator" = "Calcolatrice Agrimensura";
+"soilCalculator" = "Suolo e Movimento Terra Calcolatrice";
+"columnCalculator"  = "Calcolatrice Colonna";
+"bridgeCalculator" = "Ingegneria Ponte Calcolatrice";
+"moneyCounter"  = "contatore denaro";
+"Movie Trailerz" = "Movie Trailers & Teasers";
+"timberCalculator"  =  "Ingegneria Legname Calc";
+"highwaysCalculator"  =  "Autostrada e strada Calcolatri";
+"fluidMechanicsCalculator" = "Meccanica dei fluidi calc";
+"Clear" = "Cancellare";

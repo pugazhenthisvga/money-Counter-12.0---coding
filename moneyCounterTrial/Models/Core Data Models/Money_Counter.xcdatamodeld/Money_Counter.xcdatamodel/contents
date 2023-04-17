@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H512" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="INRMoney" representedClassName="INRMoney" syncable="YES" codeGenerationType="class">
+        <attribute name="values" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="Money" representedClassName="Money" syncable="YES">
+        <attribute name="cent1" optional="YES" attributeType="String"/>
+        <attribute name="cent2" optional="YES" attributeType="String"/>
+        <attribute name="cent5" optional="YES" attributeType="String"/>
+        <attribute name="cent10" optional="YES" attributeType="String"/>
+        <attribute name="cent20" optional="YES" attributeType="String"/>
+        <attribute name="cent25" optional="YES" attributeType="String"/>
+        <attribute name="cent50" optional="YES" attributeType="String"/>
+        <attribute name="cent100" optional="YES" attributeType="String"/>
+        <attribute name="currencyCode" optional="YES" attributeType="String"/>
+        <attribute name="dollar1" optional="YES" attributeType="String"/>
+        <attribute name="dollar2" optional="YES" attributeType="String"/>
+        <attribute name="dollar3" optional="YES" attributeType="String"/>
+        <attribute name="dollar5" optional="YES" attributeType="String"/>
+        <attribute name="dollar10" optional="YES" attributeType="String"/>
+        <attribute name="dollar20" optional="YES" attributeType="String"/>
+        <attribute name="dollar25" optional="YES" attributeType="String"/>
+        <attribute name="dollar50" optional="YES" attributeType="String"/>
+        <attribute name="dollar100" optional="YES" attributeType="String"/>
+        <attribute name="dollar150" optional="YES" attributeType="String"/>
+        <attribute name="dollar200" optional="YES" attributeType="String"/>
+        <attribute name="dollar500" optional="YES" attributeType="String"/>
+        <attribute name="dollar1000" optional="YES" attributeType="String"/>
+        <attribute name="dollar2000" optional="YES" attributeType="String"/>
+        <attribute name="dollar5000" optional="YES" attributeType="String"/>
+        <attribute name="dollar10000" optional="YES" attributeType="String"/>
+        <attribute name="dollar20000" optional="YES" attributeType="String"/>
+        <attribute name="dollar50000" optional="YES" attributeType="String"/>
+        <attribute name="dollar100000" optional="YES" attributeType="String"/>
+        <attribute name="dollarHalf" optional="YES" attributeType="String"/>
+        <attribute name="dollarQuarter" optional="YES" attributeType="String"/>
+        <attribute name="total" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="Money" positionX="-54" positionY="-9" width="128" height="508"/>
+        <element name="INRMoney" positionX="-54" positionY="144" width="128" height="58"/>
+    </elements>
+</model>

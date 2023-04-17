@@ -1,0 +1,75 @@
+/* 
+  Localizable.strings
+  Money Counter
+
+  Created by V PUGAZHENTHI on 03/02/21.
+  Copyright © 2021 V PUGAZHENTHI. All rights reserved.
+*/
+"contactSupportButtonText" = "Contactez";
+"moreAppsLabelText"  =  "Plus Apps de développeur";
+"Restored successfully!"  =  "Restauré avec succès!";
+"Enjoy!"  =  "jouir!";
+"Buy  for "  =  " Acheter ";
+"Not Now"   =   "pas maintenant";
+"Choose Currency" = "Choisir la devise";
+"Edit" = "modifier";
+"removeAds" = "enlève les publicités";
+"restore" = "restaurer l'achat";
+"Money Counter" = "MonnaieCompteur";
+"Money" = "Monnaie";
+"- reset" = "- réinitialiser";
+"default currency"  = "devise par défaut";
+"More" = "Plus";
+"hydraulicsCalculator"  = "Calculatrice Hydraulique";
+"structuralCalculator" = "Ingénierie des structures Calc";
+"civilCalculator"   =   "Génie Civil - Calculatrices et Convertisseurs";
+"concreteCalculator" = "Calculatrice Béton";
+"electricalCalculator" = "Calculatrice Electrique";
+"electricalConverter" = "Convertisseur électrique";
+"myPhysicsCalculator" =  "Ma Calculatrice de Physique";
+"energyCalculator" = "Calculatrice(coût de l'énergie)";
+"temperatureCalculator" = "Convertisseur de température";
+"unitsConverter" =  "Unité Convertisseurs";
+"energyCostCalculator" = "Calculatrice(coût de l'énergie)";
+"ohmsLawCalculator" = "Calculatrice ohms";
+
+
+"structuralCalculatorDescription" = "Ingénierie des structures Calc  contient 58 calculs de différents paramètres structurels et génie civil.";
+"hydraulicsCalculatorDescription" = "Hydraulique et Waterworks - Calculatrice contient 94 calculatrices, qui peut calculer rapidement et facilement et de convertir différents hydraulique, ouvrages hydrauliques et des paramètres de génie civil.";
+"civilCalculatorDescription"   =   "génie civil - Pack  contient 11 modules et 484 Calculatrice";
+"concreteCalculatorDescription" = "Calculatrice Béton contient 56 calculatrices, qui peuvent rapidement et facilement calculer différents paramètres de béton et de génie civil. ";
+"electricalCalculatorDescription" = "49 - Calculatrices électriques avec Formula et Unités multiples";
+"physicsCalculatorDescription" =  "Ma Calculatrice de Physique contient 134 Calculatrices, pour différents Physique et Ingénierie Paramètres.";
+"energyCalculatorDescription" = "Calculateur de coût l'énergie calcule les coûts de fonctionnement des équipements électriques ou machines";
+"temperatureCalculatorDescription" = "convertit les valeurs entre les différentes unités de température. Formule donnée.";
+"unitsConverterDescription" = "Unité Convertisseurs est un pack de convertisseurs pour différentes unités de mesure. Il se compose de 60 catégories avec 1327 unités et 53742 Conversions.";
+"Check out this App" = "Découvrez cette application";
+
+"rate this App"  =   "Évaluez nous";
+"share the App" = "Partager";
+ 
+
+"geometricCalculator" = "Calculatrice de géométrie";
+"myPhysicsCalculator" =  "Ma Calculatrice de Physique";
+"unitsConverter"  =  "Convertisseur d'unités";
+"thermodynamicsCalculator"  =  "Génie Thermique - Calculatrice";
+"civilCalculator"   =   "Génie Civil - Calculatrices et Convertisseurs";
+"structuralCalculator" = "Ingénierie des structures Calculatrice";
+"beamCalculator"  =  "Calculatrice de Poutre";
+"hydraulicsCalculator"  = "Calculatrice Hydraulique";
+"concreteCalculator" = "Calculatrice Béton";
+"pilingCalculator"  =  "Fondation sur pieux Calculatrice";
+"surveyCalculator" = "Calculatrice Arpentage";
+"soilCalculator" = "Sol et Terrassement Calculatrice";
+"columnCalculator"  = "Calculatrice de Colonne";
+"bridgeCalculator" = "Ingénierie des ponts Calc.";
+"moneyCounter"  = "Monnaie Compteur";
+"Movie Trailerz" = "Movie Trailers & Teasers";
+"timberCalculator"  =  "Ingénierie du Bois Calculateur";
+"highwaysCalculator"  =  "Autoroute et route Calc.";
+"fluidMechanicsCalculator" = "Mécanique des fluides";
+"Try Later" = "Plus tard";
+
+"More" = "Plus";
+"remarks" = "Ajouter une note";
+"Clear" = "Limpo";
